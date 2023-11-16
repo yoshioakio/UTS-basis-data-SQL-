@@ -1,5 +1,4 @@
 # UTS-basis-data-SQL-
 
 uts basis data 
-nama : muhamad fajri permana haryanto
-nim : 20220801439
+(muhamad fajri permana haryanto 20220801439)
